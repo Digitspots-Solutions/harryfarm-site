@@ -1,0 +1,49 @@
+{
+  "businessName": "Harryfarm",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Quality Manufacturing Solutions for Nigeria's Growing Industries",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Harryfarm - Your Trusted Manufacturing Partner in Ogun State. We deliver precision, quality, and reliability in every product we manufacture. Serving businesses across Yewa South and beyond with excellence.",
+      "imagePrompt": "Wide-angle photorealistic shot of a modern Nigerian manufacturing facility in Ogun State, clean industrial workspace with organized equipment, natural lighting streaming through large windows, workers in safety gear operating machinery, professional atmosphere, sharp focus, vibrant colors showing productivity and precision",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Harryfarm is a leading manufacturing company based in Yewa South, Ogun State, Nigeria. Located at CDA Mosafejo behind High Court Ilaro, we have built a reputation for delivering high-quality manufactured products that meet the needs of Nigerian businesses and consumers. Our strategic location in Ogun State positions us perfectly to serve clients across the South-West region and beyond. We combine modern manufacturing techniques with local expertise to produce reliable, durable products that stand the test of time. At Harryfarm, quality control is not just a process - it's our commitment to every client we serve.",
+      "imagePrompt": "Professional photograph of Harryfarm facility exterior in Ilaro, Ogun State, showing clean modern building with company signage, well-maintained compound, Nigerian flag visible, blue sky background, tree-lined environment typical of Yewa South area, establishing shot that conveys stability and professionalism",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "At Harryfarm, we offer comprehensive manufacturing solutions tailored to meet the diverse needs of Nigerian industries. Our services include custom product manufacturing, quality assurance testing, material sourcing and procurement, production line optimization, and bulk order fulfillment. We maintain strict quality standards throughout our manufacturing process, ensuring every product that leaves our facility meets international specifications. Whether you need small batch production or large-scale manufacturing, our experienced team and modern equipment are ready to deliver excellence. We pride ourselves on timely delivery, competitive pricing, and unwavering commitment to quality.",
+      "imagePrompt": "Detailed photorealistic image of diverse manufacturing processes in a Nigerian factory, showing assembly lines with quality control stations, precision tools and equipment, manufactured products in various stages, workers inspecting finished goods, clean organized workspace with safety protocols visible, professional industrial photography style",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Harryfarm",
+      "copy": "Quality Assurance: Every product undergoes rigorous testing to ensure it meets our high standards before reaching you. Local Expertise: Deep understanding of the Nigerian market and manufacturing landscape enables us to deliver solutions that work. Reliable Delivery: We respect deadlines and ensure your orders are completed and delivered on schedule. Competitive Pricing: Quality manufacturing doesn't have to break the bank - we offer fair, transparent pricing. Customer Support: Our team is always available to address your concerns and provide technical assistance.",
+      "imagePrompt": "Professional composite image showing Harryfarm's competitive advantages: close-up of quality control inspection, team members collaborating, delivery trucks, competitive price tags in Naira, and customer service interaction, all in a clean modern Nigerian business setting, bright and confidence-inspiring",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Contact Harryfarm today and let's bring your production goals to reality. Whether you need a quote, want to visit our facility, or have questions about our services, our team is here to help. Visit us at our Ilaro location or reach out via phone or WhatsApp. We look forward to partnering with you.",
+      "imagePrompt": "Inviting photograph of Harryfarm's reception or consultation area, professional Nigerian business setting with comfortable seating, company branding visible, map of Ogun State on wall highlighting Yewa South location, friendly staff member ready to assist, warm natural lighting, professional yet approachable atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 094 2433",
+    "email": "info@harryfarm.ng",
+    "address": "CDA Mosafejo, Behind High Court Ilaro, Yewa South, Ogun State, Nigeria",
+    "whatsapp": "https://wa.me/2348060942433"
+  }
+}
